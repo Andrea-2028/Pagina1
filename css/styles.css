@@ -6,6 +6,8 @@
    /* font-weight: 900; */
 }
 
+
+
 :root {
    --text--size: 18px;
    /* #region COLORS */
@@ -165,21 +167,21 @@ a:hover {
 
 /* #region IMAGES */
 .img-container {
-   margin: 2.5rem;
-   height: 10rem;
-   width: 10rem;
+   margin: 1.5rem;
+   height: 5rem;
+   width: 5rem;
 }
 
 .img-container-15 {
-   height: 15rem;
-   margin: 2.5rem;
-   width: 15rem;
+   height: 10rem;
+   margin: 1.5rem;
+   width: 10rem;
 }
 @media screen and (max-width: 176px ) {
    .img-container-15 {
       margin: .5rem;
-      height: 10rem;
-      width: 10rem;
+      height: 5rem;
+      width: 5rem;
    }
 }
 
@@ -242,7 +244,7 @@ img {
 .img-icon {width:1rem;}
 .img-sm {width: 5rem;}
 .img-md {width: 10rem;}
-.img-hero {width: 10rem;}
+.img-hero {width: 10rem; height: auto; }
 @media screen and (max-width: 368px){
    .img-hero {width: 10rem;}
 }
