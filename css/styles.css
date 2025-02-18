@@ -32,11 +32,11 @@
    /* #endregion COLORS */
 
    /* #region SCREENS */
-   --screen--max--size--x-small: 576px;
-   --screen--max--size--small: 767px; 
-   --screen--max--size--medium: 991px; 
-   --screen--max--size--large: 1199px; 
-   --screen--max--size--x-large: 1399px; 
+   --screen--max--size--x-small: 376px;
+   --screen--max--size--small: 467px; 
+   --screen--max--size--medium: 491px; 
+   --screen--max--size--large: 999px; 
+   --screen--max--size--x-large: 999px; 
 
    font-family: 'Roboto', sans-serif;
    /* font-family: 'Quicksand', sans-serif; */
