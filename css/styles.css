@@ -31,12 +31,7 @@
    /* --color--bg--scroll: #D6D8D9; */
    /* #endregion COLORS */
 
-   /* #region SCREENS */
-   --screen--max--size--x-small: 376px;
-   --screen--max--size--small: 467px; 
-   --screen--max--size--medium: 491px; 
-   --screen--max--size--large: 999px; 
-   --screen--max--size--x-large: 999px; 
+
 
    font-family: 'Roboto', sans-serif;
    /* font-family: 'Quicksand', sans-serif; */
@@ -244,12 +239,12 @@ img {
    width: 100%;
 }
 
-.img-icon {width: 2.5rem;}
+.img-icon {width:1rem;}
 .img-sm {width: 5rem;}
-.img-md {width: 15rem;}
-.img-hero {width: 17rem;}
+.img-md {width: 10rem;}
+.img-hero {width: 10rem;}
 @media screen and (max-width: 368px){
-   .img-hero {width: 12rem;}
+   .img-hero {width: 10rem;}
 }
 .img-lg {width: 20rem;}
 .img-xl {width: 25rem;}
