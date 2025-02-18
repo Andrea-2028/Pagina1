@@ -244,7 +244,7 @@ img {
 .img-icon {width:1rem;}
 .img-sm {width: 5rem;}
 .img-md {width: 10rem;}
-.img-hero {width: 10rem; height: auto; }
+.img-hero {width: 10rem; }
 @media screen and (max-width: 368px){
    .img-hero {width: 10rem;}
 }
@@ -267,7 +267,7 @@ img {
    }
 } */
 .img-75 {width: 75%;}
-.img-100 {width: 100%;height: 3%;}
+.img-100 {width: 100%;}
 .border-circle {
    border-radius: 100%;
    overflow: hidden;
