@@ -820,8 +820,8 @@ p {
 
 
 #hero {
-   width: 100vw;
-   height: 100vh;
+   width: 50vw;
+   height: 50vh;
    opacity: 0;
    transition: opacity 2s ease-in-out;
 }
