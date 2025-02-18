@@ -267,7 +267,7 @@ img {
    }
 } */
 .img-75 {width: 75%;}
-.img-100 {width: 100%;}
+.img-100 {width: 100%;height: auto;}
 .border-circle {
    border-radius: 100%;
    overflow: hidden;
