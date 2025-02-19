@@ -245,7 +245,7 @@ img {
 .img-sm {width: 5rem;}
 .img-md {width: 10rem;}
 .img-hero {width: 10rem; }
-@media screen and (max-width: 368px){
+@media screen and (max-width: 968px){
    .img-hero {width: 10rem;}
 }
 .img-lg {width: 20rem;}
