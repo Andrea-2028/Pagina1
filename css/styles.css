@@ -255,20 +255,20 @@ img {
 }
 
 .img-icon {width: 2.5rem;}
-.img-sm {width: 5rem; height: 10px;}
+.img-sm {width: 5rem;}
 .img-md {width: 15rem;}
-.img-hero {width: 17rem; height: 10px;}
+.img-hero {width: 17rem;}
 @media screen and (max-width: 768px){
-   .img-hero {width: 12rem; height: 10px;}
+   .img-hero {width: 12rem;}
 }
 .img-lg {width: 20rem;}
 .img-xl {width: 25rem;}
 .img-xxl {width: 30rem;}
 .img-1 {width: 5%;}
 .img-2 {width: 10%;}
-.img-3 {width: 15%; height: 10px;}
+.img-3 {width: 15%;}
 .img-4 {width: 20%;}
-.img-5 {width: 25%; height: 5%;}
+.img-5 {width: 25%;}
 @media screen and (max-width: 768px ) {
    .img-5 {
       width: 50%;
@@ -279,8 +279,8 @@ img {
       width: 15rem;
    }
 } */
-.img-75 {width: 75%;height: 10px;}
-.img-100 {width: 100%; height: 10%;}
+.img-75 {width: 75%;}
+.img-100 {width: 100%;}
 .border-circle {
    border-radius: 100%;
    overflow: hidden;
