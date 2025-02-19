@@ -268,7 +268,7 @@ img {
 .img-2 {width: 10%;}
 .img-3 {width: 15%;}
 .img-4 {width: 20%;}
-.img-5 {width: 25%;}
+.img-5 {width: 25%; height: 5%;}
 @media screen and (max-width: 768px ) {
    .img-5 {
       width: 50%;
