@@ -18,7 +18,7 @@ const animation_3 = () => {
 }
 
 
- 
+
 
 //#region EFECTO PARALLAX
 window.onscroll = function () {
