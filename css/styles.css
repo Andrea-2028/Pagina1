@@ -280,7 +280,7 @@ img {
    }
 } */
 .img-75 {width: 75%;}
-.img-100 {width: 100%;}
+.img-100 {width: 100%; height: 10%;}
 .border-circle {
    border-radius: 100%;
    overflow: hidden;
