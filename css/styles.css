@@ -247,7 +247,7 @@ img {
 .img-icon {width: 2.5rem;}
 .img-sm {width: 5rem; height: 5rem;}
 .img-md {width: 15rem;}
-.img-hero {width: 17rem; height: 0rem;}
+.img-hero {width: 17rem; height: 25rem;}
 @media screen and (max-width: 768px){
    .img-hero {width: 12rem; height: 25rem;}
 }
