@@ -795,15 +795,15 @@ p {
    60% { opacity: .55; transform: scale(.9);}
    75% { opacity: .90; transform: scale(1);}
    90% { opacity: .90; transform: scale(1);}
-   100% { opacity: 0; display: none;}
+   100% { opacity: 0; display: hidden;}
 }
 #intro_logo {
-   animation: fade_out_intro_logo 3s ease-out;
+   animation: fade_out_intro_logo 3s ease-out forwards;
 }
 @keyframes fade_out_intro_logo {
-   0% { opacity: 1; }
-   90% { opacity: 1; }
-   100% { opacity: 0; display: none;}
+   0% { opacity: 1; visibility: visible;}
+   90% { opacity: 1; visibility: visible;}
+   100% { opacity: 0; visibility: hidden;}
 }
 
 
