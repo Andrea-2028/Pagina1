@@ -249,7 +249,7 @@ img {
 .img-md {width: 15rem;}
 .img-hero {width: 17rem;}
 @media screen and (max-width: 768px){
-   .img-hero {width: 12rem; height: 100%;}
+   .img-hero {width: 12rem; height: 50rem}
 }
 .img-lg {width: 20rem;}
 .img-xl {width: 25rem;}
