@@ -1,8 +1,10 @@
-AOS.init();
-
-let timeTimeOut = 1500;
-let time = 100;
-
+AOS.init({
+   duration: 1000,
+   easing: 'ease-in-out-back',
+   once: true,
+   mirror: false,
+ });
+ 
 const animation_1 = () => {
    document.querySelector("#intro_logo").classList.add("d-none");
    // document.querySelector("#hero").classList.remove("d-none");
