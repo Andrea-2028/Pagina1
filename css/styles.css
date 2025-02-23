@@ -245,7 +245,7 @@ img {
 }
 
 .img-icon {width: 2.5rem;}
-.img-sm {width: 10rem; height: 10rem;}
+.img-sm {width: 20rem; height: 10rem;}
 .img-md {width: 15rem;}
 .img-hero {width: 17rem; height: 25rem;}
 @media screen and (max-width: 768px){
