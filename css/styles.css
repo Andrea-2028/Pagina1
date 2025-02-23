@@ -244,6 +244,11 @@ img {
    width: 100%;
 }
 
+@font-face {
+   font-family: 'Roboto';
+   font-display: swap;
+ }
+
 .img-icon {width: 2.5rem;}
 .img-sm {width: 5rem;}
 .img-md {width: 15rem;}
